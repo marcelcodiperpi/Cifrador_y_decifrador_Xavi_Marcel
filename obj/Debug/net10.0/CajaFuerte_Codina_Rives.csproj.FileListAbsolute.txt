@@ -1,0 +1,14 @@
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\bin\Debug\net10.0\CajaFuerte_Codina_Rives.exe
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\bin\Debug\net10.0\CajaFuerte_Codina_Rives.deps.json
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\bin\Debug\net10.0\CajaFuerte_Codina_Rives.runtimeconfig.json
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\bin\Debug\net10.0\CajaFuerte_Codina_Rives.dll
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\bin\Debug\net10.0\CajaFuerte_Codina_Rives.pdb
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.AssemblyInfoInputs.cache
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.AssemblyInfo.cs
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.csproj.CoreCompileInputs.cache
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.dll
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\refint\CajaFuerte_Codina_Rives.dll
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.pdb
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\CajaFuerte_Codina_Rives.genruntimeconfig.cache
+C:\Users\marcelcodiperpi\source\repos\CajaFuerte_Codina_Rives\CajaFuerte_Codina_Rives\obj\Debug\net10.0\ref\CajaFuerte_Codina_Rives.dll
